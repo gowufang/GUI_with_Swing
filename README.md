@@ -2,7 +2,8 @@
 
 ## 运行程序
 下载后使用Idea打开
-add as lib
+
+lib下的jar包，右击鼠标，add as lib
 
 ## 数据库配置
 用户名：root
